@@ -22,7 +22,7 @@ screenshot
 
 b) Assignment 2 - Auto EDA with your favorite tool
 
-AutoEdaPandasProfiler.ipynb - TikTokSongs_2022.csv dataset
+AutoEdaPandasProfiler.ipynb - TikTokSongs_2022.csv dataset (sometimes it doesnt view the entire notebook, please use the link provided below for verification)
 
 Alternatively, you can view this notebook in the following link, 
 
