@@ -28,3 +28,7 @@ Alternatively, you can view this notebook in the following link,
 
 https://nbviewer.org/github/devisjsu/CMPE255-EDA/blob/main/AutoEdaPandasProfiler.ipynb
 
+c) Assignment 3 - Apache beam features - demonstrate apache beam in a colab including composite transform
+
+CompositeTransformApacheBeam.ipynb
+
