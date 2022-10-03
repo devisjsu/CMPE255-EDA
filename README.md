@@ -19,3 +19,12 @@ package.json
 public -> input files and libraries
 
 screenshot
+
+b) Assignment 2 - Auto EDA with your favorite tool
+
+AutoEdaPandasProfiler.ipynb - TikTokSongs_2022.csv dataset
+
+Alternatively, you can view this notebook in the following link, 
+
+https://nbviewer.org/github/devisjsu/CMPE255-EDA/blob/main/AutoEdaPandasProfiler.ipynb
+
